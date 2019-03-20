@@ -1,0 +1,4 @@
+/Users/nadiaguidry/Desktop/DocumentMerger2/DocumentMerger2/obj/Debug/netcoreapp2.1/DocumentMerger2.csprojAssemblyReference.cache
+/Users/nadiaguidry/Desktop/DocumentMerger2/DocumentMerger2/obj/Debug/netcoreapp2.1/DocumentMerger2.csproj.CoreCompileInputs.cache
+/Users/nadiaguidry/Desktop/DocumentMerger2/DocumentMerger2/obj/Debug/netcoreapp2.1/DocumentMerger2.AssemblyInfoInputs.cache
+/Users/nadiaguidry/Desktop/DocumentMerger2/DocumentMerger2/obj/Debug/netcoreapp2.1/DocumentMerger2.AssemblyInfo.cs

@@ -8,6 +8,7 @@ namespace DocumentMerger
         static void Main(string[] args)
 
         {
+            //hi
 
             if (args.Length < 3)
             {
